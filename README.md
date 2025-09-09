@@ -9,15 +9,19 @@ Welcome to my GitHub profile! I'm a **Consultant & Trainer** focused on:
 ## 🧑‍💻 What I do
 
 🔧 **Cloud Engineering**  
+
 I help teams design, build, and operate scalable platforms – across AWS, Azure, and hybrid environments.
 
 📦 **Containers & Kubernetes**  
+
 From first pod to production-grade clusters – I guide teams on their container journey.
 
 📝 **Trainings & Workshops**  
+
 I share knowledge through hands-on workshops, in-depth sessions, and real-world examples.
 
 💡 **Open Source**  
+
 I build and maintain Terraform modules, Helm charts, and DevOps tools I use myself in the field.
 
 ---
@@ -45,7 +49,9 @@ I build and maintain Terraform modules, Helm charts, and DevOps tools I use myse
 ## 😄 About Me
 
 I’m a dad of two, cloud-native enthusiast, and part-time LEGO engineer (thanks to my kids). 
+
 Currently training for my **first triathlon** and preparing to run a **half marathon** – because pushing limits is part of the fun. 🏃‍♂️🚴‍♂️🏊
+
 When I’m not in a terminal, you’ll find me outdoors – running trails, exploring mountains, or recovering with strong coffee and metal playlists. ☕
 
 ---
