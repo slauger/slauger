@@ -29,7 +29,8 @@ I build and maintain Terraform modules, Helm charts, and DevOps tools I use myse
 ## 🔍 Tech Stack
 
 - **Terraform** / **Terragrunt**
-- **Kubernetes** / **OpenShift** / **Helm** / **Helmfile**
+- **Kubernetes** / **OpenShift**
+- **Helm** / **Helmfile**
 - **AWS**, **Azure**
 - **GitLab CI/CD**, **ArgoCD**
 - **Puppet**, **Ansible**
