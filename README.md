@@ -9,8 +9,17 @@ Welcome to my GitHub profile! I'm a **Consultant & Trainer** focused on Cloud In
 **Cloud Engineering**
 I help teams design, build, and operate scalable platforms – across AWS, Azure, and hybrid environments.
 
+**AI-Driven Development & Automation**
+I integrate AI tools and workflows into development processes – boosting productivity through intelligent automation, code generation, and modern scripting approaches.
+
+**MLOps & Model Operations**
+From model development to production deployment – I build CI/CD pipelines for ML workloads, container-based model serving, and monitoring on Kubernetes.
+
 **Containers & Kubernetes**
 From first pod to production-grade clusters – I guide teams on their container journey.
+
+**Process Modernization**
+I help organizations modernize their workflows through Infrastructure as Code, AI-assisted development, and intelligent automation – delivering massive efficiency gains.
 
 **Trainings & Workshops**
 I share knowledge through hands-on workshops, in-depth sessions, and real-world examples.
@@ -22,13 +31,24 @@ I build and maintain Terraform modules, Helm charts, and DevOps tools I use myse
 
 ## Tech Stack
 
+**Cloud & Infrastructure**
 - **Terraform** / **Terragrunt**
 - **Kubernetes** / **OpenShift**
 - **Helm** / **Helmfile**
 - **AWS**, **Azure**
 - **GitLab CI/CD**, **ArgoCD**
 - **Puppet**, **Ansible**
+
+**AI & MLOps**
+- **MLflow**, **Kubeflow**, **MLOps Pipelines**
+- **AI-Assisted Development** (GitHub Copilot, Claude Code, Cursor)
+- **LLM Integration** (LangChain, OpenAI/Anthropic APIs, Prompt Engineering)
+- **Model Serving** (TensorFlow Serving, TorchServe, ONNX Runtime)
+
+**Development & Automation**
 - **Go**, **Python**, **Bash**
+- **AI-powered scripting** and code generation
+- **Custom tooling** and automation frameworks
 
 ---
 
@@ -53,7 +73,7 @@ I build and maintain Terraform modules, Helm charts, and DevOps tools I use myse
 
 ## About Me
 
-I'm a dad of two, cloud-native enthusiast, and part-time LEGO engineer. Currently training for my first triathlon and half marathon – pushing limits is part of the fun.
+I'm a cloud-native enthusiast currently training for my first triathlon and half marathon – pushing limits is part of the fun.
 
 When I'm not in a terminal, you'll find me outdoors running trails, exploring mountains, or recovering with strong coffee and metal playlists.
 
