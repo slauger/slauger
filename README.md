@@ -6,26 +6,11 @@ Welcome to my GitHub profile! I'm a **Consultant & Trainer** focused on Cloud In
 
 ## What I do
 
-**Cloud Engineering**
-I help teams design, build, and operate scalable platforms – across AWS, Azure, and hybrid environments.
-
-**AI-Driven Development & Automation**
-I integrate AI tools and workflows into development processes – boosting productivity through intelligent automation, code generation, and modern scripting approaches.
-
-**MLOps & Model Operations**
-From model development to production deployment – I build CI/CD pipelines for ML workloads, container-based model serving, and monitoring on Kubernetes.
-
-**Containers & Kubernetes**
-From first pod to production-grade clusters – I guide teams on their container journey.
-
-**Process Modernization**
-I help organizations modernize their workflows through Infrastructure as Code, AI-assisted development, and intelligent automation – delivering massive efficiency gains.
-
-**Trainings & Workshops**
-I share knowledge through hands-on workshops, in-depth sessions, and real-world examples.
-
-**Open Source**
-I build and maintain Terraform modules, Helm charts, and DevOps tools I use myself in the field.
+- **Cloud Engineering** – Design, build, and operate scalable platforms across AWS, Azure, and hybrid environments
+- **AI & MLOps** – Integrate AI tools into development workflows, build MLOps pipelines, and deploy ML models on Kubernetes
+- **Process Modernization** – Drive efficiency through Infrastructure as Code, AI-assisted development, and intelligent automation
+- **Containers & Kubernetes** – Guide teams from first pod to production-grade clusters
+- **Trainings & Workshops** – Share knowledge through hands-on workshops and real-world examples
 
 ---
 
