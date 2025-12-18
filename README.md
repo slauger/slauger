@@ -16,24 +16,13 @@ Welcome to my GitHub profile! I'm a **Consultant & Trainer** focused on Cloud In
 
 ## Tech Stack
 
-**Cloud & Infrastructure**
 - **Terraform** / **Terragrunt**
 - **Kubernetes** / **OpenShift**
 - **Helm** / **Helmfile**
 - **AWS**, **Azure**
 - **GitLab CI/CD**, **ArgoCD**
 - **Puppet**, **Ansible**
-
-**AI & MLOps**
-- **MLflow**, **Kubeflow**, **MLOps Pipelines**
-- **AI-Assisted Development** (GitHub Copilot, Claude Code, Cursor)
-- **LLM Integration** (LangChain, OpenAI/Anthropic APIs, Prompt Engineering)
-- **Model Serving** (TensorFlow Serving, TorchServe, ONNX Runtime)
-
-**Development & Automation**
 - **Go**, **Python**, **Bash**
-- **AI-powered scripting** and code generation
-- **Custom tooling** and automation frameworks
 
 ---
 
