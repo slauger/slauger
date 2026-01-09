@@ -28,10 +28,10 @@ Welcome to my GitHub profile! I'm a **Consultant & Trainer** focused on Cloud In
 
 ## Current Projects
 
-- Modular multi-tenant cloud setup with Terraform
-- Automating VPN and Transit Gateway configurations
-- Refactoring Helmfile deployments into modular charts
-- Delivering workshops like _"Azure Container Bootcamp"_ (AKS, ACI & Kubernetes fundamentals)
+- **LLM Infrastructure & RAG Pipeline** – Building production-ready inference platforms with vLLM, Ollama, and vector databases
+- **Enterprise Configuration Management** – Migrating Puppet infrastructure to OpenVox, upgrading to Puppet 8
+- **AWS Multi-Account Architecture** – Designing Transit Gateway topologies, VPC automation, and EKS platform engineering
+- **AI/MLOps Integration** – Implementing LangChain/LangGraph agents, GPU optimization, and model deployment pipelines
 
 ---
 
