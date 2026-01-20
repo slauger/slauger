@@ -42,6 +42,11 @@ Welcome to my GitHub profile! I'm a **Consultant & Trainer** focused on Cloud In
 - **[netscaler-certbot-hook](https://github.com/slauger/netscaler-certbot-hook)** - Automatic installation and renewal of SSL certificates on Citrix NetScaler ADCs
 - **[gitops-image-replacer](https://github.com/slauger/gitops-image-replacer)** - CLI tool to automatically update container image references in GitHub repositories
 - **[helm-charts](https://github.com/slauger/helm-charts)** - Collection of Helm charts for various use cases
+- **[resume-web](https://github.com/slauger/resume-web)** - Modern JSON-based resume with markdown support, skill filter & PDF/Markdown export
+- **[chantal](https://github.com/slauger/chantal)** - Unified CLI tool for offline repository mirroring across multiple package ecosystems (RPM, APT, APK, Helm)
+- **[espresso-macos](https://github.com/slauger/espresso-macos)** - Keep your macOS apps awake - Session keepalive + audio/visual notification monitoring for remote desktop apps
+- **[suno-cli](https://github.com/slauger/suno-cli)** - Command-line tool to generate music with Suno AI. Input lyrics + style, output MP3
+- **[greeting-card-generator](https://github.com/slauger/greeting-card-generator)** - YAML-based greeting card generator for creating cards without fighting Word margins
 
 ---
 
