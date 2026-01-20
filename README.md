@@ -47,6 +47,7 @@ Welcome to my GitHub profile! I'm a **Consultant & Trainer** focused on Cloud In
 - **[espresso-macos](https://github.com/slauger/espresso-macos)** - Keep your macOS apps awake - Session keepalive + audio/visual notification monitoring for remote desktop apps
 - **[suno-cli](https://github.com/slauger/suno-cli)** - Command-line tool to generate music with Suno AI. Input lyrics + style, output MP3
 - **[greeting-card-generator](https://github.com/slauger/greeting-card-generator)** - YAML-based greeting card generator for creating cards without fighting Word margins
+- **[bedrock-s3-vectors-rag](https://github.com/slauger/bedrock-s3-vectors-rag)** - RAG pipeline with AWS Bedrock, S3 and vector databases
 
 ---
 
