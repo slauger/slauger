@@ -37,17 +37,29 @@ Welcome to my GitHub profile! I'm a **Consultant & Trainer** focused on Cloud In
 
 ## Featured Repositories
 
-- **[hcloud-okd4](https://github.com/slauger/hcloud-okd4)** - Provision OKD4/OpenShift clusters on Hetzner Cloud using Packer, Terraform and Ansible
-- **[check_netscaler](https://github.com/slauger/check_netscaler)** - Nagios Plugin for Citrix ADC using the NITRO API
-- **[netscaler-certbot-hook](https://github.com/slauger/netscaler-certbot-hook)** - Automatic installation and renewal of SSL certificates on Citrix NetScaler ADCs
-- **[gitops-image-replacer](https://github.com/slauger/gitops-image-replacer)** - CLI tool to automatically update container image references in GitHub repositories
+### Infrastructure & Kubernetes
+- **[hcloud-okd4](https://github.com/slauger/hcloud-okd4)** - Provision OKD4/OpenShift clusters on Hetzner Cloud using Packer, Terraform and Ansible (⭐78)
 - **[helm-charts](https://github.com/slauger/helm-charts)** - Collection of Helm charts for various use cases
-- **[resume-web](https://github.com/slauger/resume-web)** - Modern JSON-based resume with markdown support, skill filter & PDF/Markdown export
+- **[container-gitops-pipeline](https://github.com/slauger/container-gitops-pipeline)** - Reusable GitHub Actions workflows for container-based GitOps pipelines
+- **[hugo-gitops-pipeline](https://github.com/slauger/hugo-gitops-pipeline)** - Reusable GitHub Actions workflow for Hugo sites with GitOps deployment
+- **[gitops-image-replacer](https://github.com/slauger/gitops-image-replacer)** - CLI tool to automatically update container image references in GitHub repositories
+
+### Configuration Management & Automation
 - **[chantal](https://github.com/slauger/chantal)** - Unified CLI tool for offline repository mirroring across multiple package ecosystems (RPM, APT, APK, Helm)
-- **[espresso-macos](https://github.com/slauger/espresso-macos)** - Keep your macOS apps awake - Session keepalive + audio/visual notification monitoring for remote desktop apps
+
+### Monitoring & Networking
+- **[check_netscaler](https://github.com/slauger/check_netscaler)** - Nagios Plugin for Citrix ADC using the NITRO API (⭐37)
+- **[netscaler-certbot-hook](https://github.com/slauger/netscaler-certbot-hook)** - Automatic installation and renewal of SSL certificates on Citrix NetScaler ADCs (⭐12)
+
+### AI & Creative Tools
+- **[bedrock-s3-vectors-rag](https://github.com/slauger/bedrock-s3-vectors-rag)** - RAG pipeline with AWS Bedrock, S3 and vector databases
 - **[suno-cli](https://github.com/slauger/suno-cli)** - Command-line tool to generate music with Suno AI. Input lyrics + style, output MP3
 - **[greeting-card-generator](https://github.com/slauger/greeting-card-generator)** - YAML-based greeting card generator for creating cards without fighting Word margins
-- **[bedrock-s3-vectors-rag](https://github.com/slauger/bedrock-s3-vectors-rag)** - RAG pipeline with AWS Bedrock, S3 and vector databases
+
+### Apps & Utilities
+- **[mta-lernplattform](https://github.com/slauger/mta-lernplattform)** - Interactive quiz app for firefighter training (Modulare Truppausbildung)
+- **[resume-web](https://github.com/slauger/resume-web)** - Modern JSON-based resume with markdown support, skill filter & PDF/Markdown export
+- **[espresso-macos](https://github.com/slauger/espresso-macos)** - Keep your macOS apps awake - Session keepalive + audio/visual notification monitoring
 
 ---
 
