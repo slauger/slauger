@@ -43,6 +43,7 @@ Welcome to my GitHub profile! I'm a **Consultant & Trainer** focused on Cloud In
 - **[container-gitops-pipeline](https://github.com/slauger/container-gitops-pipeline)** - Reusable GitHub Actions workflows for container-based GitOps pipelines
 - **[hugo-gitops-pipeline](https://github.com/slauger/hugo-gitops-pipeline)** - Reusable GitHub Actions workflow for Hugo sites with GitOps deployment
 - **[gitops-image-replacer](https://github.com/slauger/gitops-image-replacer)** - CLI tool to automatically update container image references in GitHub repositories
+- **[gitops-replacer](https://github.com/slauger/gitops-replacer)** - Marker-based value replacer for GitOps repositories, updates YAML files via GitHub API
 
 ### Configuration Management & Automation
 - **[chantal](https://github.com/slauger/chantal)** - Unified CLI tool for offline repository mirroring across multiple package ecosystems (RPM, APT, APK, Helm)
