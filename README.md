@@ -46,6 +46,7 @@ Welcome to my GitHub profile! I'm a **Consultant & Trainer** focused on Cloud In
 - **[gitops-replacer](https://github.com/slauger/gitops-replacer)** - Marker-based value replacer for GitOps repositories, updates YAML files via GitHub API
 
 ### Configuration Management & Automation
+- **[openvox-operator](https://github.com/slauger/openvox-operator)** - Kubernetes Operator for running OpenVox (Puppet) environments on Kubernetes/OpenShift with rootless containers
 - **[chantal](https://github.com/slauger/chantal)** - Unified CLI tool for offline repository mirroring across multiple package ecosystems (RPM, APT, APK, Helm)
 
 ### Monitoring & Networking
