@@ -59,6 +59,7 @@ Welcome to my GitHub profile! I'm a **Consultant & Trainer** focused on Cloud In
 - **[greeting-card-generator](https://github.com/slauger/greeting-card-generator)** - YAML-based greeting card generator for creating cards without fighting Word margins
 
 ### Apps & Utilities
+- **[dictctl](https://github.com/slauger/dictctl)** - CLI tool for dictation: microphone recording → Whisper transcription → text on stdout
 - **[mta-lernplattform](https://github.com/slauger/mta-lernplattform)** - Interactive quiz app for firefighter training (Modulare Truppausbildung)
 - **[resume-web](https://github.com/slauger/resume-web)** - Modern JSON-based resume with markdown support, skill filter & PDF/Markdown export
 - **[espresso-macos](https://github.com/slauger/espresso-macos)** - Keep your macOS apps awake - Session keepalive + audio/visual notification monitoring
