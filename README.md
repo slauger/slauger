@@ -32,16 +32,6 @@ Welcome to my GitHub profile! I'm a **Consultant, Trainer & Product Builder** fo
 ## Certifications
 
 <p align="center">
-  <a href="https://www.credly.com/badges/d75c9fe5-f72d-482b-9736-e1226374da3c/public_url">
-    <img src="https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" width="160" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Kubestronaut</b> – holder of all five CNCF Kubernetes certifications 🚀
-</p>
-
-<p align="center">
   <a href="https://www.credly.com/badges/a54dafbd-26ec-4856-9703-074c648cbc5e/public_url">
     <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="110" />
   </a>
@@ -111,7 +101,13 @@ All badges are verified on [Credly](https://www.credly.com/users/simon-lauger.a6
 
 ## About Me
 
-I'm a cloud-native enthusiast who completed his first triathlon and half marathon this year – now looking forward to an Ironman 70.3.
+<p align="center">
+  <a href="https://www.credly.com/badges/d75c9fe5-f72d-482b-9736-e1226374da3c/public_url">
+    <img src="https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" width="160" />
+  </a>
+</p>
+
+I'm a cloud-native enthusiast and **Kubestronaut** 🚀 – holder of all five CNCF Kubernetes certifications – who completed his first triathlon and half marathon this year, now looking forward to an Ironman 70.3.
 
 When I'm not in a terminal, you'll find me outdoors running trails, exploring mountains, or recovering with strong coffee and metal playlists.
 
