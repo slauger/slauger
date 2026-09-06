@@ -75,31 +75,11 @@ Welcome to my GitHub profile! I'm a **Consultant, Trainer & Product Builder** fo
 
 ## About Me
 
-<p align="center">
-  <a href="https://www.credly.com/badges/d75c9fe5-f72d-482b-9736-e1226374da3c/public_url">
-    <img src="https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" width="160" />
-  </a>
-</p>
+<a href="https://www.credly.com/badges/d75c9fe5-f72d-482b-9736-e1226374da3c/public_url">
+  <img align="right" src="https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" width="140" />
+</a>
 
-I'm a cloud-native enthusiast and **Kubestronaut** 🚀 – holder of all five CNCF Kubernetes certifications:
-
-<p align="center">
-  <a href="https://www.credly.com/badges/a54dafbd-26ec-4856-9703-074c648cbc5e/public_url">
-    <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="110" />
-  </a>
-  <a href="https://www.credly.com/badges/48f4b046-8646-4725-8e6b-ed3b7620f717/public_url">
-    <img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="110" />
-  </a>
-  <a href="https://www.credly.com/badges/1225fc7c-69a6-4529-81e9-de65cd8b14a5/public_url">
-    <img src="assets/badges/cks.png" alt="CKS: Certified Kubernetes Security Specialist" width="110" />
-  </a>
-  <a href="https://www.credly.com/badges/846d2deb-5c94-4eb9-a196-8364c61279a1/public_url">
-    <img src="assets/badges/kcna.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="110" />
-  </a>
-  <a href="https://www.credly.com/badges/07a22a58-85e7-409f-b0b3-fb9c82c854e7/public_url">
-    <img src="https://images.credly.com/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="KCSA: Kubernetes and Cloud Native Security Associate" width="110" />
-  </a>
-</p>
+I'm a cloud-native enthusiast and **Kubestronaut** – holder of all five CNCF Kubernetes certifications ([CKA](https://www.credly.com/badges/a54dafbd-26ec-4856-9703-074c648cbc5e/public_url), [CKAD](https://www.credly.com/badges/48f4b046-8646-4725-8e6b-ed3b7620f717/public_url), [CKS](https://www.credly.com/badges/1225fc7c-69a6-4529-81e9-de65cd8b14a5/public_url), [KCNA](https://www.credly.com/badges/846d2deb-5c94-4eb9-a196-8364c61279a1/public_url), [KCSA](https://www.credly.com/badges/07a22a58-85e7-409f-b0b3-fb9c82c854e7/public_url)).
 
 Off the clusters, I completed my first triathlon and half marathon this year – now looking forward to an Ironman 70.3.
 
