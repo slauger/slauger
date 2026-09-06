@@ -101,8 +101,6 @@ I'm a cloud-native enthusiast and **Kubestronaut** 🚀 – holder of all five C
   </a>
 </p>
 
-Also certified: **ITIL Foundation** (IT Service Management) – all badges are verified on [Credly](https://www.credly.com/users/simon-lauger.a6eb403f).
-
 Off the clusters, I completed my first triathlon and half marathon this year – now looking forward to an Ironman 70.3.
 
 When I'm not in a terminal, you'll find me outdoors running trails, exploring mountains, or recovering with strong coffee and metal playlists.
