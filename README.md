@@ -29,32 +29,6 @@ Welcome to my GitHub profile! I'm a **Consultant, Trainer & Product Builder** fo
 
 ---
 
-## Certifications
-
-<p align="center">
-  <a href="https://www.credly.com/badges/a54dafbd-26ec-4856-9703-074c648cbc5e/public_url">
-    <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="110" />
-  </a>
-  <a href="https://www.credly.com/badges/48f4b046-8646-4725-8e6b-ed3b7620f717/public_url">
-    <img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="110" />
-  </a>
-  <a href="https://www.credly.com/badges/1225fc7c-69a6-4529-81e9-de65cd8b14a5/public_url">
-    <img src="assets/badges/cks.png" alt="CKS: Certified Kubernetes Security Specialist" width="110" />
-  </a>
-  <a href="https://www.credly.com/badges/846d2deb-5c94-4eb9-a196-8364c61279a1/public_url">
-    <img src="assets/badges/kcna.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="110" />
-  </a>
-  <a href="https://www.credly.com/badges/07a22a58-85e7-409f-b0b3-fb9c82c854e7/public_url">
-    <img src="https://images.credly.com/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="KCSA: Kubernetes and Cloud Native Security Associate" width="110" />
-  </a>
-</p>
-
-Also certified: **ITIL Foundation** (IT Service Management)
-
-All badges are verified on [Credly](https://www.credly.com/users/simon-lauger.a6eb403f).
-
----
-
 ## Current Projects
 
 - **LLM Gateway & Developer Portal** – OpenAI-compatible multi-provider gateway with MCP registry, IT security dashboard, and multi-tenant isolation
@@ -107,7 +81,29 @@ All badges are verified on [Credly](https://www.credly.com/users/simon-lauger.a6
   </a>
 </p>
 
-I'm a cloud-native enthusiast and **Kubestronaut** 🚀 – holder of all five CNCF Kubernetes certifications – who completed his first triathlon and half marathon this year, now looking forward to an Ironman 70.3.
+I'm a cloud-native enthusiast and **Kubestronaut** 🚀 – holder of all five CNCF Kubernetes certifications:
+
+<p align="center">
+  <a href="https://www.credly.com/badges/a54dafbd-26ec-4856-9703-074c648cbc5e/public_url">
+    <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="110" />
+  </a>
+  <a href="https://www.credly.com/badges/48f4b046-8646-4725-8e6b-ed3b7620f717/public_url">
+    <img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="110" />
+  </a>
+  <a href="https://www.credly.com/badges/1225fc7c-69a6-4529-81e9-de65cd8b14a5/public_url">
+    <img src="assets/badges/cks.png" alt="CKS: Certified Kubernetes Security Specialist" width="110" />
+  </a>
+  <a href="https://www.credly.com/badges/846d2deb-5c94-4eb9-a196-8364c61279a1/public_url">
+    <img src="assets/badges/kcna.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="110" />
+  </a>
+  <a href="https://www.credly.com/badges/07a22a58-85e7-409f-b0b3-fb9c82c854e7/public_url">
+    <img src="https://images.credly.com/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="KCSA: Kubernetes and Cloud Native Security Associate" width="110" />
+  </a>
+</p>
+
+Also certified: **ITIL Foundation** (IT Service Management) – all badges are verified on [Credly](https://www.credly.com/users/simon-lauger.a6eb403f).
+
+Off the clusters, I completed my first triathlon and half marathon this year – now looking forward to an Ironman 70.3.
 
 When I'm not in a terminal, you'll find me outdoors running trails, exploring mountains, or recovering with strong coffee and metal playlists.
 
