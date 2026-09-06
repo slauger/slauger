@@ -75,7 +75,13 @@ Welcome to my GitHub profile! I'm a **Consultant, Trainer & Product Builder** fo
 
 ## About Me
 
-I'm a cloud-native enthusiast who completed his first triathlon and half marathon this year – now looking forward to an Ironman 70.3.
+<a href="https://www.credly.com/badges/d75c9fe5-f72d-482b-9736-e1226374da3c/public_url">
+  <img align="right" src="https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" width="140" />
+</a>
+
+I'm a cloud-native enthusiast and **Kubestronaut** – holder of all five CNCF Kubernetes certifications ([CKA](https://www.credly.com/badges/a54dafbd-26ec-4856-9703-074c648cbc5e/public_url), [CKAD](https://www.credly.com/badges/48f4b046-8646-4725-8e6b-ed3b7620f717/public_url), [CKS](https://www.credly.com/badges/1225fc7c-69a6-4529-81e9-de65cd8b14a5/public_url), [KCNA](https://www.credly.com/badges/846d2deb-5c94-4eb9-a196-8364c61279a1/public_url), [KCSA](https://www.credly.com/badges/07a22a58-85e7-409f-b0b3-fb9c82c854e7/public_url)).
+
+Off the clusters, I completed my first triathlon and half marathon this year – now looking forward to an Ironman 70.3.
 
 When I'm not in a terminal, you'll find me outdoors running trails, exploring mountains, or recovering with strong coffee and metal playlists.
 
