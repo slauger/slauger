@@ -42,6 +42,7 @@ Welcome to my GitHub profile! I'm a **Consultant, Trainer & Product Builder** fo
 
 ### Infrastructure & Kubernetes
 - **[hcloud-okd4](https://github.com/slauger/hcloud-okd4)** - Provision OKD4/OpenShift clusters on Hetzner Cloud using Packer, Terraform and Ansible (⭐79)
+- **[openshift-compliance-remediations](https://github.com/slauger/openshift-compliance-remediations)** - Declarative OpenShift compliance remediations as reviewable Helm charts, generated from ComplianceAsCode SCAP datastreams
 - **[helm-charts](https://github.com/slauger/helm-charts)** - Collection of Helm charts for various use cases
 - **[container-gitops-pipeline](https://github.com/slauger/container-gitops-pipeline)** - Reusable GitHub Actions workflows for container-based GitOps pipelines
 - **[hugo-gitops-pipeline](https://github.com/slauger/hugo-gitops-pipeline)** - Reusable GitHub Actions workflow for Hugo sites with GitOps deployment
